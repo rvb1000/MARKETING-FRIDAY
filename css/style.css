@@ -89,9 +89,9 @@
     display: inline-block;
     text-decoration: none;
     margin-top: 2rem;
-    padding: 0.7rem 1.5rem;
+    padding: 1rem 1.5rem;
     background: rgb(255, 88, 88);
-    border-radius: 0.7rem;
+    border-radius: 0.8rem;
     color: white;
 }
 
